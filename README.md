@@ -72,7 +72,8 @@ The final report includes each of the following:
 ### Notes
 
 - Pandas Library and the Jupyter Notebook were utilized to analyze this data
-- Link to Github repo https://github.com/melissamonroe/Pandas-Challenge.
+- Link to Github repo https://github.com/melissamonroe/Pandas-Challenge
+- Jupyter Notebook: HeroesOfPymoli.ipynb
 
 ## Observable trends based on the data
 
