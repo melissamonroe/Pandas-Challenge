@@ -1,6 +1,6 @@
-# Exploring Pandas
+# Heroes of Pymoli Final Analysis
 
-## Heroes of Pymoli Final Analysis
+![Fantasy](../Images/Fantasy.png)
 
 ## Observable trends based on the data
 
