@@ -8,7 +8,7 @@ You've been assigned the task of analyzing the data for their most recent fantas
 
 Like many others in its genre, the game is free-to-play, but players are encouraged to purchase optional items that enhance their playing experience. As a first task, the company would like you to generate a report that breaks down the game's purchasing data into meaningful insights.
 
-The final report includes each of the following:
+The final report includes each of the following (Link to [Final Analysis Report](Analysis/Final_Analysis_Report.md))
 
 ### Player Count
 
@@ -36,6 +36,11 @@ The final report includes each of the following:
   - Average Purchase Total per Person by Gender
 
 ### Age Demographics
+
+- The below each broken into bins of 4 years (i.e. &lt;10, 10-14, 15-19, etc.)
+  - Numbers and percentages by age group
+
+### Purchasing Analysis (Age)
 
 - The below each broken into bins of 4 years (i.e. &lt;10, 10-14, 15-19, etc.)
   - Purchase Count
