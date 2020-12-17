@@ -2,17 +2,15 @@
 
 ## Heroes of Pymoli Final Analysis
 
-![Fantasy](../Images/Fantasy.png)
-
 ## Observable trends based on the data
 
 - Majority of players are male 84% (484 of 576 players)
 
 - The largest age demographic group (44.79%) are players between 20-24 years old (258 of 576 players)
 
-- Final Critic was the highest grossing purchase item and the most profitable with 13 total purchases and total purchase value of $59.99
+- Top spenders purchased at least 3 items
 
-- Top spenders purchased at least 3 items.
+- Final Critic was the highest grossing purchase item and the most profitable with 13 total purchases and total purchase value of $59.99
 
 ### Player Count
 

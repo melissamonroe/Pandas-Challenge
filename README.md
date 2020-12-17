@@ -86,4 +86,6 @@ The [Final Analysis Report](Analysis/Final_Analysis_Report.md) includes each of 
 
 - The largest age demographic group (44.79%) are players between 20-24 years old (258 of 576 players)
 
+- Top spenders purchased at least 3 items
+
 - Final Critic was the highest grossing purchase item and the most profitable with 13 total purchases and total purchase value of $59.99
